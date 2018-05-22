@@ -1,0 +1,2 @@
+spring-context-support-4.3.11.RELEASE
+javax.mail-1.5.6
